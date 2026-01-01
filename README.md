@@ -28,6 +28,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 * HTML & CSS
 * JavaScript
+* Bootstrap
 
 **Intermediate**
 
@@ -38,6 +39,9 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * Linux
 * Microsoft Word
 * Microsoft Visual Studio
+* React
+* Tailwind
+* Material UI
 
 **Basic**
 
@@ -55,7 +59,7 @@ Most repositories here are **practice-based projects** created during learning, 
 
 * Quiz applications
 * Calculator apps
-* Small experiments
+* Todo app
 
 These projects represent my learning journey rather than finished products.
 
