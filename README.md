@@ -17,8 +17,9 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 ## 🧠 Technical Interests (Priority Order)
 
 1. Frontend Development
-2. AI / Machine Learning
-3. Backend Development
+2. Backend Development
+3. AI / Machine Learning
+4. Database
 
 ---
 
@@ -29,19 +30,19 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * HTML & CSS
 * JavaScript
 * Bootstrap
+* React
+* Tailwind
+* Material UI
+* Git
 
 **Intermediate**
 
-* Git
 * TypeScript
 * Python
 * C++
 * Linux
 * Microsoft Word
 * Microsoft Visual Studio
-* React
-* Tailwind
-* Material UI
 
 **Basic**
 
@@ -53,7 +54,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 📂 Projects
 
-I don’t have large-scale projects yet.
+Comming Soon...
 
 Most repositories here are **practice-based projects** created during learning, such as:
 
