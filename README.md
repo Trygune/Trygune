@@ -1,6 +1,6 @@
 # Hi, I'm Farbod 👋
 
-I'm a **Computer Software Engineering student** and an **independent developer in learning mode**. I consider myself at a **Beginner / Junior** level, but I take learning seriously and systematically.
+I'm a **Computer Software Engineering student** and an **independent developer in learning mode**. I consider myself at a **Junior** level, but I take learning seriously and systematically.
 
 My main focus is on **Frontend Development**, with growing interests in **AI / Machine Learning** and **Backend Development**. I enjoy turning concepts into working code, even when the projects are small — progress compounds.
 
@@ -29,6 +29,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 * HTML & CSS
 * JavaScript
+* TypeScript
 * Bootstrap
 * React
 * Tailwind
@@ -37,7 +38,6 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 **Intermediate**
 
-* TypeScript
 * Python
 * C++
 * Linux
@@ -54,7 +54,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 📂 Projects
 
-Comming Soon...
+** Tax app
 
 Most repositories here are **practice-based projects** created during learning, such as:
 
