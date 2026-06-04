@@ -54,15 +54,17 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 📂 Projects
 
-* **Tax app**
+### Tax App
+My main and most significant project so far is a **Tax Application** built as part of my learning journey. It represents my first larger, real-world-style project where I applied practical development concepts.
 
-Most repositories here are **practice-based projects** created during learning, such as:
+### Other Practice Projects
+Most of my other repositories are smaller practice projects created while learning, including:
 
-* Quiz applications
-* Calculator apps
-* Todo app
+- Quiz applications  
+- Calculator apps  
+- Todo applications  
 
-These projects represent my learning journey rather than finished products.
+These projects reflect my continuous learning process and hands-on practice with different frontend concepts, rather than production-ready products.
 
 ---
 
