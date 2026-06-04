@@ -54,7 +54,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 📂 Projects
 
-**Tax app**
+* **Tax app**
 
 Most repositories here are **practice-based projects** created during learning, such as:
 
