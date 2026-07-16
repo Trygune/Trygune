@@ -30,17 +30,26 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * HTML & CSS
 * JavaScript
 * TypeScript
-* React: <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-</div>
+* React
+* Next.js
 * Tailwind
+* Radix UI
 * Material UI
+* Redux Toolkit
+* RTK Query
+* Zustand
+* SWR
+* Drizzle ORM
+* Next-intl
+* Storybook
 * Git
 * Bootstrap
 
 **Intermediate**
 
 * Python
+* MSW
+* Postman
 * C++
 * Linux
 * Microsoft Word
@@ -48,6 +57,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 **Basic**
 
+* Jest
 * Java
 * WordPress
 * UI / UX Principles
@@ -58,6 +68,9 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ### Tax App
 My main and most significant project so far is a **Tax Application** built as part of my learning journey. It represents my first larger, real-world-style project where I applied practical development concepts.
+
+### Eslimi Shop
+Soon...
 
 ### Other Practice Projects
 Most of my other repositories are smaller practice projects created while learning, including:
@@ -74,13 +87,4 @@ These projects reflect my continuous learning process and hands-on practice with
 
 * Email: **[Farboddaneshmandfard@gmail.com](mailto:Farboddaneshmandfard@gmail.com)**
 * GitHub: **Trygune**
-
----
-
-## 🧭 Philosophy
-
-Learning deeply, building patiently, and improving continuously.
-
----
-
-*Minimal, honest, and evolving — just like my code.*
+* Resume: **[https://docs.google.com/document/d/1oFuj43OxmHcAxcXmt0Djdb2arDGjMe0KGh5WIkrRr6E/edit?usp=drive_link]**
