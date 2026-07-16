@@ -10,7 +10,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 * Looking for **internships**
 * Building **real-world projects** step by step
-* Strengthening fundamentals while learning modern tools
+* Learning modern tools
 
 ---
 
@@ -23,18 +23,20 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages and Tools
 
 **Advanced**
 
 * HTML & CSS
 * JavaScript
 * TypeScript
-* Bootstrap
-* React
+* React: <div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+</div>
 * Tailwind
 * Material UI
 * Git
+* Bootstrap
 
 **Intermediate**
 
