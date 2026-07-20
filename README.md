@@ -25,7 +25,7 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 🛠️ Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,materialui,redux,jest,python,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,materialui,redux,graphql,jest,python,git)](https://skillicons.dev)
 
 **Programming Languages**
 
@@ -52,11 +52,17 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * Zustand
 * SWR
 
+**API & Data Fetching**
+
+* RESTful APIs
+* GraphQL
+* Axios
+* Apollo Client
+
 **Backend & Database**
 
 * Drizzle ORM
 * PostgreSQL
-* RESTful APIs
 
 **Testing & Development**
 
