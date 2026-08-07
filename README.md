@@ -8,18 +8,9 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 
 ## 🎯 Current Goals
 
-* Looking for **Frontend Internship** opportunities
+* Seeking **Frontend Developer** opportunities
 * Building scalable Next.js applications
 * Improving software architecture skills
-
----
-
-## 🧠 Technical Interests (Priority Order)
-
-1. Frontend Engineering
-2. Backend Development
-3. AI & Machine Learning
-4. Databases & System Design
 
 ---
 
@@ -45,19 +36,40 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * Next-intl
 * Bootstrap
 
-**State Management & Data Fetching**
+**State Management**
 
 * Redux Toolkit
-* RTK Query
 * Zustand
-* SWR
 
-**API & Data Fetching**
+**Data Fetching & Server State**
+
+* TanStack Query
+* RTK Query
+* SWR
+* Apollo Client
+
+**API**
 
 * RESTful APIs
 * GraphQL
 * Axios
-* Apollo Client
+
+**Progressive Web Apps (PWA)**
+* Service Workers
+* Web App Manifest
+* Offline-first Architecture
+* Cache Storage API
+* Cache Strategies
+    - Cache First
+    - Network First
+    - Stale While Revalidate
+* Push API
+* Notification API
+* Background Sync
+* Badging API
+* Web Share API
+* WebAuthn (Biometric Authentication)
+* next-pwa
 
 **Backend & Database**
 
@@ -96,6 +108,39 @@ Features:
 - Form validation
 
 [View Repository](https://github.com/Trygune/Tax)
+
+### Fusion
+Modern Vibe Coded Progressive Web Application Blog built with Next.js, TypeScript, Tanstack Query.
+
+Features:
+- Offline-first support
+- Custom Service Worker
+- App Shell Architecture
+- Runtime caching
+- API caching
+- Background Sync
+- Push Notifications
+- Installable application
+- Web Manifest
+
+[View Repository](https://github.com/Trygune/TPWA)
+
+### Wallert
+Modern Progressive Web Application Wallet built with Next.js, TypeScript and next-pwa.
+
+Features:
+- Offline-first support
+- App Shell Architecture
+- Runtime caching
+- API caching
+- Background Sync
+- Push Notifications
+- Installable application
+- Web Manifest
+- Biometric Authentication
+- Badging API
+
+[View Repository](https://github.com/Trygune/Wallert)
 
 ### Eslimi Shop
 An e-commerce application currently in development using Next.js and TypeScript.
