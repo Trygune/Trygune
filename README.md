@@ -55,7 +55,8 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * Axios
 
 **Progressive Web Apps (PWA)**
-* Service Workers
+* Custom Service Workers (built from scratch, no framework abstraction)
+* next-pwa (framework-based setup)
 * Web App Manifest
 * Offline-first Architecture
 * Cache Storage API
@@ -69,7 +70,6 @@ My main focus is on **Frontend Development**, with growing interests in **AI / M
 * Badging API
 * Web Share API
 * WebAuthn (Biometric Authentication)
-* next-pwa
 
 **Backend & Database**
 
@@ -115,7 +115,6 @@ Modern Vibe Coded Progressive Web Application Blog built with Next.js, TypeScrip
 Features:
 - Offline-first support
 - Custom Service Worker
-- App Shell Architecture
 - Runtime caching
 - API caching
 - Background Sync
