@@ -1,102 +1,125 @@
 # Hi, I'm Farbod DaneshmandFard 👋
-
-I'm a **Computer Software Engineering student** and a **self-taught Frontend Developer**. I build modern web applications with React and Next.js while continuously expanding my knowledge of software engineering.
-
-My main focus is on **Frontend Development**, with growing interests in **AI / Machine Learning** and **Backend Development**. I enjoy turning ideas into working products and continuously refining them through hands-on development — progress compounds.
+ 
+I'm a **Computer Software Engineering student** and a **self-taught Fullstack Developer**. I build modern web applications end-to-end — from pixel-perfect, type-safe frontends with React and Next.js to REST/WebSocket APIs and databases on the backend.
+ 
+My main focus is **Frontend Development**, with growing depth in **Backend Development** and a strong interest in **systems that bridge software and the physical world** (computer vision, automation, desktop apps).
 
 ---
 
 ## 🎯 Current Goals
 
-* Seeking **Frontend Developer** opportunities
-* Building scalable Next.js applications
-* Improving software architecture skills
+* Seeking **Frontend / Fullstack Developer** opportunities
+* Building scalable Next.js applications with real backend architecture behind them
+* Deepening backend fundamentals (NestJS, system design)
 
 ---
 
 ## 🛠️ Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,materialui,redux,graphql,jest,python,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,materialui,redux,graphql,nodejs,express,postgres,mongodb,prisma,python,git)](https://skillicons.dev)
 
 **Programming Languages**
-
 * JavaScript (ES6+)
 * TypeScript
 * Python
 
 **Frontend**
-
 * HTML5
 * CSS3
 * React
-* Next.js
+* Next.js (App Router)
 * Tailwind CSS
 * Radix UI
-* Material UI
+* Material UI (MUI)
+* shadcn/ui
+* Bootstrap 5
+* CSS Modules
+* Panda CSS
 * Next-intl
-* Bootstrap
 
 **State Management**
-
 * Redux Toolkit
 * Zustand
 
 **Data Fetching & Server State**
-
 * TanStack Query
 * RTK Query
 * SWR
 * Apollo Client
+* Axios / Fetch
 
 **API**
-
 * RESTful APIs
 * GraphQL
-* Axios
+* WebSocket
+
+**Forms & Validation**
+* Zod
+* React Hook Form
+
+**Backend**
+* Node.js
+* Express.js
+* Fastify
+* NestJS *(learning)*
+
+**Databases & ORMs**
+* PostgreSQL
+* MySQL
+* MongoDB
+* Prisma
+* Drizzle ORM
+* Mongoose
+* Sequelize
 
 **Progressive Web Apps (PWA)**
-* Custom Service Workers (built from scratch, no framework abstraction)
-* next-pwa (framework-based setup)
+* Service Workers (custom, built from scratch)
+* Serwist
+* next-pwa
 * Web App Manifest
 * Offline-first Architecture
-* Cache Storage API
-* Cache Strategies
-    - Cache First
-    - Network First
-    - Stale While Revalidate
-* Push API
-* Notification API
+* Runtime Caching
+* Push Notifications
 * Background Sync
 * Badging API
 * Web Share API
 * WebAuthn (Biometric Authentication)
 
-**Backend & Database**
-
-* Drizzle ORM
-* PostgreSQL
+**Desktop & Automation**
+* Electron.js
+* RobotJS
 
 **Testing & Development**
-
 * Storybook
 * MSW
-* Jest
 * Postman
 
-**Tools**
-
+**Practices & Tools**
+* Agile / Scrum
+* UI/UX
 * Git & GitHub
 * Linux
-* Visual Studio Code
-  
+* Vite
+* Vercel
+
 **Currently Learning**
-
-* Django
-
+* NestJS
 
 ---
 
 ## 📂 Projects
+
+### Hand Tracking Mouse Control
+A webcam-based hand-tracking system that controls the OS mouse (move, click, scroll, drag, right-click) using real-time hand gesture recognition — built with React and Google MediaPipe hand landmark detection.
+ 
+Architecture — split into independently published packages:
+- **`core`** — gesture recognition logic *(published on npm)*
+- **`driver`** — low-level OS mouse control driver *(published on npm)*
+- **`web`** — UI, camera feed, feature selection, and a virtual mouse demo
+- **`agent`** — WebSocket bridge connecting the web app to the real OS cursor
+- **`windows`** — Electron-based Windows desktop port, using RobotJS for native cursor control
+
+[View Repository](https://github.com/Trygune/hand-tracker) · [`core` on npm](https://www.npmjs.com/package/@hand-tracker/core) · [`driver` on npm](https://www.npmjs.com/package/@hand-tracker/driver)
 
 ### Tax App
 A responsive tax management dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. It helps users manage tax-related data through a modern dashboard interface.
@@ -109,58 +132,15 @@ Features:
 
 [View Repository](https://github.com/Trygune/Tax)
 
-### Fusion
-Modern Vibe Coded Progressive Web Application Blog built with Next.js, TypeScript, Tanstack Query.
-
-Features:
-- Offline-first support
-- Custom Service Worker
-- Runtime caching
-- API caching
-- Background Sync
-- Push Notifications
-- Installable application
-- Web Manifest
-
-[View Repository](https://github.com/Trygune/TPWA)
-
-### Wallert
-Modern Progressive Web Application Wallet built with Next.js, TypeScript and next-pwa.
-
-Features:
-- Offline-first support
-- App Shell Architecture
-- Runtime caching
-- API caching
-- Background Sync
-- Push Notifications
-- Installable application
-- Web Manifest
-- Biometric Authentication
-- Badging API
-
-[View Repository](https://github.com/Trygune/Wallert)
-
-### Eslimi Shop
-An e-commerce application currently in development using Next.js and TypeScript.
-
-### Other Practice Projects
-I also maintain a collection of small practice projects that helped me strengthen core frontend development skills.
-
-Examples include:
-- Quiz applications  
-- Calculator apps  
-- Todo applications
-
 ---
 
 ## 🚀 What I Enjoy Building
 
-- Responsive web applications
-- Reusable UI components
-- Clean and maintainable code
-- Type-safe applications with TypeScript
-- Modern React and Next.js projects
+- End-to-end applications, from UI to API to database
+- Reusable, type-safe UI components
+- Offline-first and installable PWAs
+- Clean, maintainable, scalable code
+- Projects that connect software to the physical world (computer vision, device control)
 
 ---
 
