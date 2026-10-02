@@ -119,7 +119,7 @@ Architecture — split into independently published packages:
 - **`agent`** — WebSocket bridge connecting the web app to the real OS cursor
 - **`windows`** — Electron-based Windows desktop port, using RobotJS for native cursor control
 
-[View Repository](https://github.com/Trygune/hand-tracker) · [`core` on npm](https://www.npmjs.com/package/@hand-tracker/core) · [`driver` on npm](https://www.npmjs.com/package/@hand-tracker/driver)
+[View Repository](https://github.com/Trygune/hand-tracker) · [Windows Version](https://drive.google.com/file/d/1DjLbuvHPjYk-UJqWjk0ZYI6eI79pPdfh/view?usp=sharing) · [`core` on npm](https://www.npmjs.com/package/@hand-tracker/core) · [`driver` on npm](https://www.npmjs.com/package/@hand-tracker/driver)
 
 ### Tax App
 A responsive tax management dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. It helps users manage tax-related data through a modern dashboard interface.
