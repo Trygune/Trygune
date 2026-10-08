@@ -121,6 +121,21 @@ Architecture — split into independently published packages:
 
 [View Repository](https://github.com/Trygune/hand-tracker) · [Windows Version](https://drive.google.com/file/d/1DjLbuvHPjYk-UJqWjk0ZYI6eI79pPdfh/view?usp=sharing) · [`core` on npm](https://www.npmjs.com/package/@hand-tracker/core) · [`driver` on npm](https://www.npmjs.com/package/@hand-tracker/driver)
 
+### Habitual
+A minimalist, offline-first habit tracker built with Next.js, TypeScript, Tailwind CSS, Dexie, and Serwist. It allows users to create, track, and manage daily habits with local-first data persistence and PWA support.
+
+Features:
+* Offline-first architecture
+* Local data persistence with IndexedDB & Dexie
+* Progressive Web App (PWA) support
+* Android app through Trusted Web Activity (TWA)
+* Habit history and daily progress tracking
+* Installable on desktop and mobile
+* Service worker caching with Serwist
+* Responsive and minimal UI
+
+**[View Repository](https://github.com/Trygune/habitual) · [Live Demo](https://habitual-tracer.vercel.app) · [Android App](https://drive.google.com/file/d/1VnD7dwKdgSeAPGTK-GKYx4NyP3wr63IO/view?usp=sharing)**
+
 ### Tax App
 A responsive tax management dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. It helps users manage tax-related data through a modern dashboard interface.
 
